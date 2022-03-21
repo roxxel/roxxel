@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **WinUI**
 
-- 📫 How to reach me **me@roxxel.moe**
-
 - 🔗 Connect with me [**Click**](https://roxxel.moe)
 
 <h3 align="left">Languages and Tools:</h3>
