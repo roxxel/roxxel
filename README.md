@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roxxel&label=Profile%20views&color=7310c4&style=flat" alt="roxxel" /> </p>
 
-- 🔭 I’m currently working on [TTalk](https://GitHub.com/roxxel/ttalk)
+- 🔭 I’m currently working on [Remore](https://GitHub.com/roxxel/ttalk)
 
-- ~~🌱 I’m currently learning **WinUI**~~ Nothing
+- 🌱 I’m currently learning **WinUI**
 
 - 🔗 Connect with me [**Click**](https://roxxel.moe)
 
