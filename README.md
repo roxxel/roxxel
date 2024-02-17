@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roxxel&label=Profile%20views&color=7310c4&style=flat" alt="roxxel" /> </p>
 
-- 🔭 I’m currently working on [Remore](https://GitHub.com/remore-chat/remore)
+- 🔭 I’m currently working on ~~[Remore](https://GitHub.com/remore-chat/remore)~~ I don't work on it actually
 
 - 🔗 Connect with me [**Click**](https://roxxel.me)
 
